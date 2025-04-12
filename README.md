@@ -4,21 +4,21 @@ This is a static mobile application built using **React Native CLI** that featur
 
 ## 📱 Screens Overview
 
-The app includes **5 main screens**:
+The app includes **3 main screens**:
 
 1. **Home Screen**  
    A welcome screen that introduces the app and allows users to navigate to the Products or Contact screen.
 
-2. **Product Screen 1**  
+2(a). **Product Screen 1**  
    Displays a list of featured products with images, names, and descriptions.
 
-3. **Product Screen 2**  
+2(b). **Product Screen 2**  
    Extends the product listing or shows additional product categories/items.
 
-4. **Contact Screen 1**  
+3(a). **Contact Screen 1**  
    A form where users can enter their Name, Email, and Message. On submit, input is printed to the console.
 
-5. **Contact Screen 2**  
+3(b). **Contact Screen 2**  
    A continuation or success confirmation screen after form submission (optional screen added for design purposes).
 
 ---
