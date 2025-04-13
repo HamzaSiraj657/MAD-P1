@@ -44,7 +44,7 @@ The app includes **3 main screens**:
 
 ## 🔧 Features
 
-- 📱 5 static screens
+- 📱 3 static screens
 - 🔄 React Navigation integration
 - 💼 Modular component structure (Header, Footer, Cards)
 - 🧼 Clean and maintainable code
