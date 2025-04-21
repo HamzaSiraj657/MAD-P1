@@ -1,9 +1,9 @@
-// App.tsx
+
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-// Import your screens
+
 import HomeScreen from './myapp/screens/HomeScreen';
 import ProductsScreen from './myapp/screens/ProductsScreen';
 import ContactScreen from './myapp/screens/ContactScreen';

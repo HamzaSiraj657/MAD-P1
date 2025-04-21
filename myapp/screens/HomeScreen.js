@@ -3,7 +3,7 @@ import { View, Text, Button, StyleSheet, Image } from 'react-native';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
-const HomeScreen = ({ navigation }: any) => {
+const HomeScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <Header title="Home" />

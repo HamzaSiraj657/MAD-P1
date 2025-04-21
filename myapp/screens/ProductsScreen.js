@@ -72,8 +72,18 @@ const styles = StyleSheet.create({
   },
   image: { width: 150, height: 150, borderRadius: 10 },
   name: { marginTop: 10, fontSize: 18, fontWeight: 'bold' },
-  description: { fontSize: 14, color: '#666', marginTop: 5, textAlign: 'center' },
-  price: { marginTop: 8, fontSize: 16, fontWeight: '600', color: '#2c3e50' },
+  description: {
+    fontSize: 14,
+    color: '#666',
+    marginTop: 5,
+    textAlign: 'center',
+  },
+  price: {
+    marginTop: 8,
+    fontSize: 16,
+    fontWeight: '600',
+    color: '#2c3e50',
+  },
 });
 
 export default ProductsScreen;
